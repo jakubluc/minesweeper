@@ -1,6 +1,0 @@
-/run/media/jakub/ShareBig/Documents/projects/c++/Minesweeper/build/CMakeFiles/main.dir
-/run/media/jakub/ShareBig/Documents/projects/c++/Minesweeper/build/CMakeFiles/edit_cache.dir
-/run/media/jakub/ShareBig/Documents/projects/c++/Minesweeper/build/CMakeFiles/rebuild_cache.dir
-/run/media/jakub/ShareBig/Documents/projects/c++/Minesweeper/build/include/CMakeFiles/MinesweeperCore.dir
-/run/media/jakub/ShareBig/Documents/projects/c++/Minesweeper/build/include/CMakeFiles/edit_cache.dir
-/run/media/jakub/ShareBig/Documents/projects/c++/Minesweeper/build/include/CMakeFiles/rebuild_cache.dir

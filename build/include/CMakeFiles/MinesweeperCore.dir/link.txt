@@ -1,2 +1,0 @@
-/usr/bin/ar qc libMinesweeperCore.a CMakeFiles/MinesweeperCore.dir/__/src/MinesweeperBoard.cpp.o
-/usr/bin/ranlib libMinesweeperCore.a
