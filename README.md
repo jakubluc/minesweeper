@@ -1,0 +1,2 @@
+# minesweeper
+For shool project
